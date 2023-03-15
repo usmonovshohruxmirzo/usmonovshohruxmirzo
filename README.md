@@ -14,7 +14,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://instagram.com/usmonov_dev" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="21px"/></a>
+<a href="https://instagram.com/usmonov_dev"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="21px"/></a>
+<a href="https://instagram.com/usmonov_dev"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="21px"/></a>
+<a href="https://instagram.com/usmonov_dev"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="21px"/></a>
 
 </br>
 </br>
