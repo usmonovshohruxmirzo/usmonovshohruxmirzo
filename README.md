@@ -61,5 +61,5 @@ test
 </picture>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmonovshohruxmirzo&hide_progress=false">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmonovshohruxmirzo&hide_progress=false"> -->
 
