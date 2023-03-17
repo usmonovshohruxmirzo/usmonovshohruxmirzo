@@ -10,7 +10,7 @@ Hi there, I'm Shohruxmirzo 👋
 I'm a Javascript Developer 🟡
 </h2> 
 
-test
+<!-- description here -->
 
 <a href="https://youtube.com/@usmonovdev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
