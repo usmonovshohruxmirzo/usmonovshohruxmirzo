@@ -45,17 +45,3 @@ I'm a Javascript Developer 🟡
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-<!-- <br />
-<br /> -->
-
-<!-- <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=usmonovshohruxmirzo&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=usmonovshohruxmirzo&show_icons=true" />
-</picture> -->
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmonovshohruxmirzo&hide_progress=false"> -->
-
