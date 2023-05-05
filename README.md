@@ -18,9 +18,6 @@ I'm a Javascript Developer 🟡
 <a href="https://t.me/JavaScript_Lover">Telegram</a>
 <a href="https://instagram.com/usmonov_dev">Instagram</a>
 
-</br>
-</br>
-
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 💼 Technical Skills
