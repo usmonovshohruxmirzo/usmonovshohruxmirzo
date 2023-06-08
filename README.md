@@ -14,7 +14,7 @@ I'm a Javascript Developer 🟡
 
 <a href="https://youtube.com/@usmonovdev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://tiktok.com/usmonov_dev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="https://t.me/@JavaScript_Lover"><img src="https://img.shields.io/badge/telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/JavaScript_Lover"><img src="https://img.shields.io/badge/telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://twitter.com/usmonovdev"><img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/usmonov_dev"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
