@@ -7,7 +7,7 @@ Hi there, I'm Shohruxmirzo 👋
 </h3>
 
 <h2 align="center">
-I'm a Javascript Developer 🟡
+I'm a Frontend Developer | JavaScript 🟡 | ReactJs 🔵
 </h2> 
 
 <!-- description here -->
