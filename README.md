@@ -20,8 +20,8 @@ I'm a Front-End Developer | JavaScript 🟡 | ReactJs 🔵 | TypeScript
 <a href="https://leetcode.com/usmonovshohruxmirzo"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 
 ### 🤝 Connect with me:
-<a href="https://t.me/JavaScript_Lover">Telegram</a>
-<a href="https://instagram.com/usmonov_dev">Instagram</a>
+<a href="https://t.me/JavaScript_Lover"><img src="https://img.shields.io/badge/telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://instagram.com/usmonov_dev"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -58,9 +58,10 @@ I'm a Front-End Developer | JavaScript 🟡 | ReactJs 🔵 | TypeScript
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</br>
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
