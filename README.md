@@ -28,26 +28,20 @@ I'm a Front-End Developer | JavaScript 🟡 | ReactJs 🔵 | TypeScript
 ## 💼 Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,next,express,jest)](https://skillicons.dev)
 
-</br>
 
 [![My Skills](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
 
-</br>
 
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,styledcomponents)](https://skillicons.dev)
 
-</br>
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb)](https://skillicons.dev)
 
-</br>
 
 [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
-</br>
 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-</br>
 
 [![My Skills](https://skillicons.dev/icons?i=netlify,vercel,render)](https://skillicons.dev)
