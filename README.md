@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center">
-Howdy, I'm Shohruxmirzo 👋
+Hi, I'm Shohruxmirzo 👋
 </h3>
 
 <h2 align="center">
-I'm a Front-End Developer | JavaScript 🟡 | ReactJs 🔵 | TypeScript 
+I'm a Front-End Developer
 </h2> 
 
 <!-- description here -->
