@@ -26,7 +26,7 @@ I'm a Front-End Developer | JavaScript 🟡 | ReactJs 🔵 | TypeScript
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 💼 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,next,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,next,express,jest)](https://skillicons.dev)
 
 </br>
 
