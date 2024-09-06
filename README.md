@@ -57,4 +57,6 @@ I'm a skilled Front-End Developer 💻
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+---
+
 [![committers.top badge](https://user-badge.committers.top/uzbekistan_private/usmonovshohruxmirzo.svg)](https://user-badge.committers.top/uzbekistan_private/usmonovshohruxmirzo)
