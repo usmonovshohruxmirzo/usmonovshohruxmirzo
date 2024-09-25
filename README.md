@@ -61,4 +61,4 @@ I'm a skilled Front-End Developer 💻
 
 ## 🏆 Github Rank in Uzbekistan
 
-[![committers.top badge](https://user-badge.committers.top/uzbekistan_private/usmonovshohruxmirzo.svg)](https://user-badge.committers.top/uzbekistan_private/usmonovshohruxmirzo)
+[![committers.top badge](https://user-badge.committers.top/uzbekistan_private/usmonovshohruxmirzo.svg)](https://committers.top/uzbekistan_private#usmonovshohruxmirzo)
