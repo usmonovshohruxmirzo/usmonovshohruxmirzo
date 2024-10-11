@@ -7,7 +7,7 @@ Hi, I'm Shohruhmirzo 👋
 </h3>
 
 <h2 align="center">
-I'm a skilled Front-End Developer 💻 
+Front-End Engineer 💻 
 </h2> 
 
 
