@@ -80,6 +80,18 @@ Full-Stack JavaScript Software Engineer 💻
 
 ---
 
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmonovshohruxmirzo&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="usmonovshohruxmirzo's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=usmonovshohruxmirzo&theme=dark&hide_border=true" alt="usmonovshohruxmirzo's GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmonovshohruxmirzo&theme=dark&show_icons=true&hide_border=true&layout=compact&include_all_commits=true" alt="usmonovshohruxmirzo's GitHub Stats" width="500" />
+</div>
+
+---
+
 ## 🏆 Github Rank in Uzbekistan
 
 [![committers.top badge](https://user-badge.committers.top/uzbekistan_private/usmonovshohruxmirzo.svg)](https://committers.top/uzbekistan_private#usmonovshohruxmirzo)
