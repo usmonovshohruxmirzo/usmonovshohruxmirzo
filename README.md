@@ -7,7 +7,7 @@ Hi, I'm Shohruhmirzo 👋
 </h3>
 
 <h2 align="center">
-Full-Stack JavaScript Software Engineer 💻 
+Full-Stack Software Engineer 💻 
 </h2> 
 
 
