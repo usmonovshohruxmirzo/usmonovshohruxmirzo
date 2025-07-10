@@ -7,7 +7,7 @@ Hi, I'm Shohruhmirzo 👋
 </h3>
 
 <h2 align="center">
-Full-Stack Software Engineer 💻 
+Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 </h2> 
 
 
