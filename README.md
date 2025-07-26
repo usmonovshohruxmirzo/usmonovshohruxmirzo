@@ -10,9 +10,6 @@ Hi, I'm Shohruhmirzo 👋
 Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 </h2> 
 
-
-<!-- description here -->
-
 <a href="https://youtube.com/@usmonovdev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://tiktok.com/usmonov_dev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://t.me/usmonov_dev"><img src="https://img.shields.io/badge/telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -54,6 +51,7 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
