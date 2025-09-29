@@ -99,6 +99,14 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
+# 🏢 Organizations
+
+<a href="https://github.com/NitroBrain"><img src="https://img.shields.io/badge/NitroBrain-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroBrain" /></a>
+<a href="https://github.com/NitroBrainLabs"><img src="https://img.shields.io/badge/NitroBrainLabs-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroBrainLabs" /></a>
+<a href="https://github.com/nitroscript"><img src="https://img.shields.io/badge/nitroscript-000000?style=for-the-badge&logo=github&logoColor=white" alt="nitroscript" /></a>
+<a href="https://github.com/NitroShell"><img src="https://img.shields.io/badge/NitroShell-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroShell" /></a>
+<a href="https://github.com/NitroVim"><img src="https://img.shields.io/badge/NitroVim-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroVim" /></a>
+
 ---
 
 ## Stats
