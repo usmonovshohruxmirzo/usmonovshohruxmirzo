@@ -117,9 +117,3 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
   <img src="https://github-readme-stats.vercel.app/api?username=usmonovshohruxmirzo&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="usmonovshohruxmirzo's GitHub Stats" width="50%" />
   <img src="https://streak-stats.demolab.com?user=usmonovshohruxmirzo&theme=dark&hide_border=true" alt="usmonovshohruxmirzo's GitHub Stats" width="50%" />
 </div>
-
----
-
-## 🏆 Github Rank in Uzbekistan
-
-[![committers.top badge](https://user-badge.committers.top/uzbekistan_private/usmonovshohruxmirzo.svg)](https://committers.top/uzbekistan_private#usmonovshohruxmirzo)
