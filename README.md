@@ -75,7 +75,6 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 
 ### Game
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ### Languages I’m Proficient In
