@@ -109,6 +109,7 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 <a href="https://github.com/nitroscript"><img src="https://img.shields.io/badge/nitroscript-000000?style=for-the-badge&logo=github&logoColor=white" alt="nitroscript" /></a>
 <a href="https://github.com/NitroShell"><img src="https://img.shields.io/badge/NitroShell-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroShell" /></a>
 <a href="https://github.com/NitroVim"><img src="https://img.shields.io/badge/NitroVim-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroVim" /></a>
+<a href="https://github.com/NitroUI"><img src="https://img.shields.io/badge/NitroUI-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroUI" /></a>
 
 ---
 
