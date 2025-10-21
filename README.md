@@ -104,12 +104,24 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 
 # 🏢 Organizations
 
-<a href="https://github.com/NitroBrain"><img src="https://img.shields.io/badge/NitroBrain-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroBrain" /></a>
-<a href="https://github.com/NitroBrainLabs"><img src="https://img.shields.io/badge/NitroBrainLabs-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroBrainLabs" /></a>
-<a href="https://github.com/nitroscript"><img src="https://img.shields.io/badge/nitroscript-000000?style=for-the-badge&logo=github&logoColor=white" alt="nitroscript" /></a>
-<a href="https://github.com/NitroShell"><img src="https://img.shields.io/badge/NitroShell-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroShell" /></a>
-<a href="https://github.com/NitroVim"><img src="https://img.shields.io/badge/NitroVim-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroVim" /></a>
-<a href="https://github.com/NitroUI"><img src="https://img.shields.io/badge/NitroUI-000000?style=for-the-badge&logo=github&logoColor=white" alt="NitroUI" /></a>
+<a href="https://github.com/NitroBrain">
+  <img src="https://avatars.githubusercontent.com/u/186808729?s=400&u=ad0f4754786d984548665707e3d8582f7ad40321&v=4" width="50" />
+</a>
+<a href="https://github.com/NitroBrainLabs">
+  <img src="https://avatars.githubusercontent.com/u/175504261?s=400&u=78aceadbdc055d14b0a0e4784f4d7cfaca95d060&v=4" width="50" />
+</a>
+<a href="https://github.com/nitroscript">
+  <img src="https://avatars.githubusercontent.com/u/196049642?s=96&v=4" width="50" />
+</a>
+<a href="https://github.com/NitroShell">
+    <img src="https://avatars.githubusercontent.com/u/232513317?s=96&v=4" width="50" />
+</a>
+<a href="https://github.com/NitroVim">
+  <img src="https://avatars.githubusercontent.com/u/227245902?s=96&v=4" width="50" />
+</a>
+<a href="https://github.com/NitroUI">
+  <img src="https://avatars.githubusercontent.com/u/239288899?s=400&u=99c339cf7423e54656ecf3cc3f23be813459e76e&v=4" width="50" />
+</a>
 
 ---
 
