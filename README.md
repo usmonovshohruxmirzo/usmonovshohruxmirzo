@@ -13,7 +13,7 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 <a href="https://youtube.com/@usmonovdev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://tiktok.com/usmonov_dev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://t.me/usmonov_dev"><img src="https://img.shields.io/badge/telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://twitter.com/usmonovdev"><img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/usmonov_dev"><img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/usmonov_dev"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://leetcode.com/usmonovshohruxmirzo"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 <a href="https://gitlab.com/usmonovshohruxmirzo"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
