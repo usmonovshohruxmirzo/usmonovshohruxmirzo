@@ -100,8 +100,7 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
----
-
+<!--
 # 🏢 Organizations
 
 <a href="https://github.com/NitroBrain">
@@ -122,6 +121,7 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 <a href="https://github.com/NitroUI">
   <img src="https://avatars.githubusercontent.com/u/239288899?s=400&u=99c339cf7423e54656ecf3cc3f23be813459e76e&v=4" width="50" />
 </a>
+-->
 
 ---
 
