@@ -100,29 +100,6 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-<!--
-# 🏢 Organizations
-
-<a href="https://github.com/NitroBrain">
-  <img src="https://avatars.githubusercontent.com/u/186808729?s=400&u=ad0f4754786d984548665707e3d8582f7ad40321&v=4" width="50" />
-</a>
-<a href="https://github.com/NitroBrainLabs">
-  <img src="https://avatars.githubusercontent.com/u/175504261?s=400&u=78aceadbdc055d14b0a0e4784f4d7cfaca95d060&v=4" width="50" />
-</a>
-<a href="https://github.com/nitroscript">
-  <img src="https://avatars.githubusercontent.com/u/196049642?s=96&v=4" width="50" />
-</a>
-<a href="https://github.com/NitroShell">
-    <img src="https://avatars.githubusercontent.com/u/232513317?s=96&v=4" width="50" />
-</a>
-<a href="https://github.com/NitroVim">
-  <img src="https://avatars.githubusercontent.com/u/227245902?s=96&v=4" width="50" />
-</a>
-<a href="https://github.com/NitroUI">
-  <img src="https://avatars.githubusercontent.com/u/239288899?s=400&u=99c339cf7423e54656ecf3cc3f23be813459e76e&v=4" width="50" />
-</a>
--->
-
 ---
 
 ## Stats
