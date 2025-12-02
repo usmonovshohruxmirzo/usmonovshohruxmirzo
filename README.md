@@ -26,8 +26,6 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
----
-
 ## 💼 Technical Skills
 
 ### Front-End Development
