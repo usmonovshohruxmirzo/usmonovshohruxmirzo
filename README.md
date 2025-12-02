@@ -100,8 +100,6 @@ Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
----
-
 ## Stats
 
 <div align="left">
