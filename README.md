@@ -3,12 +3,13 @@
 </p>
 
 <h3 align="center">
-Hi, I'm Shohruhmirzo 👋
+  Hi, I'm Shohruhmirzo 👋
 </h3>
 
-<h2 align="center">
-Full-Stack Software Engineer 💻 | Web | Mobile | Desktop | Game
-</h2> 
+<h3 align="center">
+Full-Stack Software Engineer | Multi-Platform Developer 
+</br >| Web • Mobile • Desktop • Game |
+</h3> 
 
 #### 📢 Social Accounts
 <a href="https://youtube.com/@usmonovdev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
