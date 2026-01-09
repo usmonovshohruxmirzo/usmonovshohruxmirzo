@@ -1,3 +1,5 @@
+<img width="1488" height="382" alt="LinkedIn Company Cover@2x" src="https://github.com/user-attachments/assets/55989758-c496-4c64-8d64-e37591a3e8af" />
+
 <h3 align="center">
   Hi, I'm Shohruhmirzo 👋
 </h3>
