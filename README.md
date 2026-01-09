@@ -1,14 +1,5 @@
 <img width="1488" height="382" alt="LinkedIn Company Cover@2x" src="https://github.com/user-attachments/assets/55989758-c496-4c64-8d64-e37591a3e8af" />
 
-<h3 align="center">
-  Hi, I'm Shohruhmirzo 👋
-</h3>
-
-<h3 align="center">
-Full-Stack Software Engineer | Multi-Platform Developer 
-</br >| Web • Mobile • Desktop • Game |
-</h3> 
-
 #### 📢 Social Accounts
 <a href="https://youtube.com/@usmonovdev"><img src="https://img.shields.io/badge/YouTube-FC4850?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://tiktok.com/usmonov_dev"><img src="https://img.shields.io/badge/TikTok-FC4850?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
