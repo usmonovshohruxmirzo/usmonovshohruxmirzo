@@ -59,7 +59,6 @@
 
 #### Testing
 ![Jest](https://img.shields.io/badge/-jest-28a745?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-28a745?style=for-the-badge&logo=mocha&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-28a745?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-28a745?style=for-the-badge&logo=Selenium&logoColor=white)
 
