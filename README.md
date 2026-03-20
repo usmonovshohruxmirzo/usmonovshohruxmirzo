@@ -9,7 +9,7 @@
 <a href="https://app.daily.dev/usmonovdev"><img src="https://img.shields.io/badge/daily.dev-28a745?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
 
 #### Connect with me:
-<a href="https://t.me/CodeMaestro"><img src="https://img.shields.io/badge/telegram-28a745?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<!-- <a href="https://t.me/"><img src="https://img.shields.io/badge/telegram-28a745?style=for-the-badge&logo=telegram&logoColor=white" /></a> -->
 <a href="https://instagram.com/usmonovshohruxmirzo"><img src="https://img.shields.io/badge/instagram-28a745?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:usmonovshohruxmirzo@gmail.com"><img src="https://img.shields.io/badge/Gmail-28a745?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
