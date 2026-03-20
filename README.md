@@ -61,6 +61,8 @@
 ![Jest](https://img.shields.io/badge/-jest-28a745?style=for-the-badge&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-28a745?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-28a745?style=for-the-badge&logo=Selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-28a745?style=for-the-badge&logo=playwright&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-28a745?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### 3D & WebGL
 ![Threejs](https://img.shields.io/badge/threejs-28a745?style=for-the-badge&logo=three.js&logoColor=white)
