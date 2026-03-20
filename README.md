@@ -35,13 +35,16 @@
 ![Blazor](https://img.shields.io/badge/Blazor-28a745?style=for-the-badge&logo=blazor&logoColor=white)
 
 #### Back-End Development
-![Firebase](https://img.shields.io/badge/firebase-28a745?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-28a745?style=for-the-badge&logo=mongodb&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-28a745?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-28a745?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-28a745?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-28a745?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-28a745?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/django%20rest-28a745?style=for-the-badge&logo=django&logoColor=white)
+ - Databases & BaaS
+   
+    ![MongoDB](https://img.shields.io/badge/MongoDB-28a745?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Postgres](https://img.shields.io/badge/postgres-28a745?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/firebase-28a745?style=for-the-badge&logo=firebase&logoColor=white)
+    ![Supabase](https://img.shields.io/badge/Supabase-28a745?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### Mobile Development
 ![React Native](https://img.shields.io/badge/react_native-28a745?style=for-the-badge&logo=react&logoColor=white)
