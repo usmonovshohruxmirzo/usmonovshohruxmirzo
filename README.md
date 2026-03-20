@@ -52,7 +52,10 @@
 
 #### Desktop Development
 ![Electron.js](https://img.shields.io/badge/Electron-28a745?style=for-the-badge&logo=Electron&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-28a745?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-28a745?style=for-the-badge&logo=dotnet&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-28a745?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/WinForms-28a745?style=for-the-badge&logo=windows&logoColor=white)
+
 
 #### Testing
 ![Jest](https://img.shields.io/badge/-jest-28a745?style=for-the-badge&logo=jest&logoColor=white)
