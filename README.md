@@ -2,7 +2,7 @@
 <a href="https://youtube.com/@usmonovdev"><img src="https://img.shields.io/badge/YouTube-28a745?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://tiktok.com/usmonov_dev"><img src="https://img.shields.io/badge/TikTok-28a745?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://t.me/usmonov_dev"><img src="https://img.shields.io/badge/telegram-28a745?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://x.com/usmonov_dev"><img src="https://img.shields.io/badge/twitter-28a745?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/usmonov_dev"><img src="https://img.shields.io/badge/X-28a745?style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://instagram.com/usmonov_dev"><img src="https://img.shields.io/badge/instagram-28a745?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://leetcode.com/usmonovshohruxmirzo"><img src="https://img.shields.io/badge/LeetCode-28a745?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
 <a href="https://gitlab.com/usmonovshohruxmirzo"><img src="https://img.shields.io/badge/GitLab-28a745?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
