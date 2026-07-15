@@ -90,6 +90,10 @@
 ![Netlify](https://img.shields.io/badge/netlify-28a745?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-28a745?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-28a745?style=for-the-badge&logo=render&logoColor=white)
+
+#### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-28a745?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-28a745?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-28a745?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### Editors & IDEs
