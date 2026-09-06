@@ -17,12 +17,12 @@
 
 ## Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[NitroVim](https://github.com/NitroVim)** | Custom Neovim distribution focused on speed, productivity, and a modern development workflow. | Lua, Neovim |
-| **[NitroOS](https://github.com/Nitro-OS)** | Custom Arch Linux-based operating system with a customized desktop environment and developer tooling. | Arch Linux, Hyprland, Lua, Bash, Rust |
-| **[NitroHTTP](https://github.com/NitroBrain/NitroHttp)** | Lightweight HTTP server focused on HTTP networking, request/response handling, and low-level web development. | C#, HTTP, Networking |
-
+| Project                                                  | Description                                                                                           | Technologies                          |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **[NitroVim](https://github.com/NitroVim)**              | Custom Neovim distribution focused on speed, productivity, and a modern development workflow.         | Lua, Neovim                           |
+| **[NitroOS](https://github.com/Nitro-OS)**               | Custom Arch Linux-based operating system with a customized desktop environment and developer tooling. | Arch Linux, Hyprland, Lua, Bash, Rust |
+| **[NitroHTTP](https://github.com/NitroBrain/NitroHttp)** | Lightweight HTTP client for making HTTP requests and working with web APIs.                           | C#, HTTP, Networking                  |
+| **[NitroBrainLabs](https://github.com/NitroBrain)**      | LMS for learning multiple technologies through documentation, NitroCode tasks, and quizzes.           | Next.js, TypeScript                   |
 
 ## Technical Skills
 
